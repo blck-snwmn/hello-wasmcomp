@@ -1,3 +1,19 @@
+## WIT
+### Install cargo-component
+```bash
+$ cargo install cargo-component
+```
+
+### Create Project
+```bash
+$ cargo component new --lib greeter
+```
+
+### Build
+```bash
+$ cargo component build
+```
+
 
 ## Host
 ### Prepare
