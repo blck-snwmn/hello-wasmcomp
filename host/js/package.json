@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"@bytecodealliance/jco": "^1.2.4",
+		"@bytecodealliance/preview2-shim": "^0.16.2"
+	},
+	"devDependencies": {
+		"tsx": "^4.15.6"
+	}
+}
